@@ -3,7 +3,7 @@
             <div class="land">
                 <p><h1 id="h1">My Name is Brandon Swinton</h1></p>
                 <p><h2 id="h2">This is my Portfolio</h2></p>
-                <a href="../assets/Brandon Swinton's CV.docx.pdf"><button  type="button" class="btn btn-outline-secondary d-md-flex m-auto">Download CV</button></a>
+                <a href="/about"><button  type="button" class="btn btn-outline-secondary d-md-flex m-auto">More about Me</button></a>
             </div>
         </div>
 </template>
